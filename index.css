@@ -1,19 +1,32 @@
-h1{
-    
-    color: lavender;
+
+html{
+
+ background-color: coral;
+
+}
+body{
+    margin: 0px;
+    padding: 20px;
+    background-color: darkgrey;
 }
 div{
-
+    
     width: 30px;
     height: 30px;
-    margin: 5px;
-    background-color: lightcoral;
-
+    padding:10px;
+  
+    
 }
-span{
-    background-color: lightseagreen;
+#first{
+  background-color: teal;
+ 
 }
-img{
-    width : 200px;
-    height: 200px;
+#second{
+    background-color: darkkhaki;
+}
+#third{
+    background-color: darkorange;
+}
+#fourth{
+    background-color: red;
 }
