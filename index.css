@@ -2,3 +2,18 @@ h1{
     
     color: lavender;
 }
+div{
+
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: lightcoral;
+
+}
+span{
+    background-color: lightseagreen;
+}
+img{
+    width : 200px;
+    height: 200px;
+}
