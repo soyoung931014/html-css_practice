@@ -1,4 +1,8 @@
 
+*{ 
+ border: 2px solid black;
+}
+
 html{
 
  background-color: coral;
