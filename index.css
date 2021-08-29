@@ -1,36 +1,14 @@
-
-*{ 
- border: 2px solid black;
-}
-
-html{
-
- background-color: coral;
-
-}
 body{
-    margin: 0px;
-    padding: 20px;
-    background-color: darkgrey;
+    margin: 20px;
 }
-div{
-    
-    width: 30px;
-    height: 30px;
-    padding:10px;
-  
-    
+span{
+    background-color:teal;
+   
+
 }
-#first{
-  background-color: teal;
- 
-}
-#second{
-    background-color: darkkhaki;
-}
-#third{
-    background-color: darkorange;
-}
-#fourth{
-    background-color: red;
+#tomato,
+#tomato2,
+#tomato3,
+#tomato4{
+    background-color:tomato;
 }
