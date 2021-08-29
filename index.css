@@ -6,9 +6,7 @@ span{
    
 
 }
-#tomato,
-#tomato2,
-#tomato3,
-#tomato4{
+.tomato
+{
     background-color:tomato;
 }
