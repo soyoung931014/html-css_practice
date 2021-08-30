@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+   background: #fff ; 
+    color: #4a4a4a;
+
+}
+
+header,footer{
+    font-size: large;
+    text-align:center;
+    padding: 0.3em 0 ;
+    background-color: #4a4a4a; 
+    color: #f9f9f9;  
+ 
+}
+nav{
+    background: goldenrod;  
+    color: purple;
+}
+main{
+    background:#f9f9f9;
+}
+aside{
+    background-color:hotpink;
+}
+.personal_information{
+    font-size: 30px;
+}
+.how_to_use{
+    font-size: 2em;
+}
+
+.footer_menu{
+    text-decoration:underline;
+}
