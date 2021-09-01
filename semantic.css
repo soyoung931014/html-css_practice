@@ -34,3 +34,23 @@ aside{
 .footer_menu{
     text-decoration:underline;
 }
+.ghoo {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+.jihoo {
+    background-color: rgb(4, 210, 247);
+    width: 10rem;
+    height: 10rem;
+}
+.ghooman {
+    display: block;
+    background-color: khaki;
+    padding: 20px;
+    margin-top: 10px;
+}
+.jigoo {
+    margin-top: 30px;
+}
