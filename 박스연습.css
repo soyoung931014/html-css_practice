@@ -1,0 +1,31 @@
+#container {
+    border: solid 1px red;
+    width: 1000px;
+    height: 800px;
+    display: flex;
+   
+  }
+  
+  div {
+    border: dotted 1px green;
+    width: 800px;
+    height: 800px;
+  }
+  
+  #firstBox {
+    flex : 0 1 250px;
+    margin-right: 5px;
+  }
+  #secondBox {
+    margin-right: 5px;
+    flex: 0 2 auto
+  }
+  #thirdBox {
+    flex: 3 1 auto;
+  }
+  .icon {
+      width: 80px;
+      height: 80px;
+      border: 1px solid red;
+      margin: 30px;
+  }
